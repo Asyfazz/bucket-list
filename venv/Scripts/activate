@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\LENOVO\Documents\KULIAH\MSIB\praktikum\selflearning6\bucket\venv"
+VIRTUAL_ENV="C:\Users\LENOVO\Documents\KULIAH\MSIB\praktikum\movie\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
